@@ -2,10 +2,9 @@
 .body {
 margin: 0;
 }
-.flexcontainer {
+.clearfix {
   width: 400px;
-  height: 450px;
-  display: flex;
+  height: 350px;
 }
 .red--box{
   width: 400px;
@@ -28,5 +27,4 @@ margin: 0;
   width: 400px;
   height: 100px;
   background: #ffe600;
-  clear: left;
 }
